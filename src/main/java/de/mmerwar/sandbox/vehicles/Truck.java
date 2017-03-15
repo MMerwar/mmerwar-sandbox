@@ -1,7 +1,7 @@
 package de.mmerwar.sandbox.vehicles;
 
 /**
- * Created by maximilian.merwar on 15.03.2017.
+ * Sub class of {@link Vehicle}
  */
 public class Truck implements Vehicle {
 
